@@ -90,7 +90,7 @@ class Blockchain {
 let dinglehopperCoin = new Blockchain();
 
 // faz n-1 transações de bruguzumbas de valores aleatórios (entre 0 e 20)
-for (let i = 1; i < 5; i++) {
+for (let i = 1; i < 15; i++) {
 	dinglehopperCoin.addBlock(
 		new Block(
 			i,
