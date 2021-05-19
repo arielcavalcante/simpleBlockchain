@@ -107,3 +107,5 @@ dinglehopperCoin.chain[2].data = { amount: 300 };
 dinglehopperCoin.chain[3].calculateHash();
 
 console.log(dinglehopperCoin.isChainValid());
+
+// comentario aleatorio
